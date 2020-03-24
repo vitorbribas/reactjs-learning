@@ -3,7 +3,7 @@ import "./styles.css";
 
 
 const Header = () => (      // syntax for components without State
-  <header id="main-header">Bem vindo, veja nossos produtos</header>
+  <header id="main-header">Inventário</header>
 );
 
 //class Header extends Component {
